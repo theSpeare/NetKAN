@@ -1,0 +1,6 @@
+{
+    "spec_version" : 1,
+    "identifier"   : "RoverScience",
+    "$kref"        : "#/ckan/spacedock/948",
+    "license"      : "CC-BY-NC-SA-3.0"
+}
